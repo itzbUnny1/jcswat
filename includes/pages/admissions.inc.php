@@ -6,17 +6,17 @@
         <div class="row">
             <div class="col-md-3 col-sm-7 mx-auto">
                 <div class="admissionCategory">
-                    FA/FSc
+                    <a href="index.php?page=fsc.inc.php">FA/FSc</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-7 mx-auto">
                 <div class="admissionCategory">
-                    BS
+                    <a href="index.php?page=bs_admission"> BS</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-7 mx-auto">
                 <div class="admissionCategory">
-                    Hostel
+                    <a href="index.php?page=hostel.inc.php">HOSTEL</a>
                 </div>
             </div>
         </div>

@@ -3,6 +3,7 @@ require 'config/config.php';
 require 'config/functions.php';
 // require 'includes/form_handlers/register_handler.php';
 require 'includes/form_handlers/login_handler.php';
+require 'includes/form_handlers/bs-admissions_handler.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
